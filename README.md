@@ -54,8 +54,8 @@
         <br>SQL Server
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="icon" width="65" height="65" />
-        <br>GitHub
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/git-original.svg" alt="icon" width="65" height="65" />
+        <br>Git
     </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="icon" width="65" height="65" />
