@@ -1,7 +1,6 @@
 Programming Languages
 <div align="left"> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> <br>Python </td> <td align="center" width="96"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="icon" width="65" height="65" /> <br>R </td> </tr> </table> </div>
 Development Tools
-### Development Tools
 <div align="left"> <table> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="icon" width="65" height="65" /> <br>Jupyter </td>
     <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="icon" width="65" height="65" /> <br>VS Code </td>
     <td align="center" width="96"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="icon" width="65" height="65" /> <br>Git </td>
