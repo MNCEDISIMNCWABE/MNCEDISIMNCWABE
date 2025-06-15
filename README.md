@@ -6,7 +6,7 @@
         <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/r-original.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="icon" width="65" height="65" />
         <br>R
     </td>
     <td align="center" width="96">
