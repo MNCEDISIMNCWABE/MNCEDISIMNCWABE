@@ -1,4 +1,4 @@
-Programming Languages
+Programming
 <div align="left"> <table> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> <br>Python </td> <td align="center" width="96"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="icon" width="65" height="65" /> <br>R </td> </td> <td align="center" width="96"> <img src="https://github.com/MNCEDISIMNCWABE/MNCEDISIMNCWABE/blob/main/icons/sql.svg" alt="icon" width="65" height="65" /> <br>SQL </td> </tr> </table> </div>
 BI & Visualization
 <div align="left"> <table> <tr> <td align="center" width="96"> <img src="https://img.icons8.com/color/96/power-bi.png" alt="icon" width="65" height="65" /> <br>Power BI </td> <td align="center" width="96"> <img src="https://github.com/MNCEDISIMNCWABE/MNCEDISIMNCWABE/blob/main/icons/gcp_looker_sudio.png" alt="icon" width="65" height="65" /> <br>Looker Studio </td> </tr> </table> </div>
